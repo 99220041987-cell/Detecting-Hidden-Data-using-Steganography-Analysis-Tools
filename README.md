@@ -17,7 +17,7 @@ Python-based steganalysis tool to detect hidden data in images using LSB extract
 ## Image Credit
 Barry
 
-Install dependencies:
+## Install dependencies:
 ```bash
 pip install pillow numpy
 
